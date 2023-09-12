@@ -34,3 +34,12 @@ function not (input) {
     return !(input);
 }
 
+//function addOne (input) {
+//    if (typeof input === 'number') {
+//        return input + 1;
+//    }
+//}
+
+function addOne(input){
+    return Number(input) +1;
+}
