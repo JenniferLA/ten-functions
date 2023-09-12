@@ -29,3 +29,8 @@ function isTrue (input){
 function isFalse (input) {
     return input === false;
 }
+
+function not (input) {
+    return !(input);
+}
+
